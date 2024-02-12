@@ -7,4 +7,6 @@
 个人觉得这样的作业设计会更为合理。
 
 - [x] Assignment 1: simpleenroll_starter
-- [ ] Assignment 2: 
+- [ ] Assignment 2: Marriage Pact
+- [ ] Assignment 3: Make a Class
+- [ ] Assignment 4: Weather Forecast

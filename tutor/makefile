@@ -8,13 +8,15 @@ CXXFLAGS = -Wall -Wextra $(STD)
 # 定义一个变量来接收命令行参数
 SOURCE_FILE = $(firstword $(MAKECMDGOALS))
 
-all = $(SOURCE_FILE) clean
+# 默认目标
+all: $(SOURCE_FILE)
 
 $(SOURCE_FILE): $(SOURCE_FILE).cpp
-	$(CXX) $(CXXFLAGS) -o $@ $<
+	$(CXX) $(CXXFLAGS) -o $@.out $<
 	@echo "Compile $@ done!"
-	./$@
+	./$@.out
 
 # 清楚当前文件夹下所有的可执行文件
+.PHONY: clean
 clean:
-	rm -f $(SOURCE_FILE)
+	rm -f *.out
