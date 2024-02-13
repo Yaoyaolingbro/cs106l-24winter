@@ -7,6 +7,6 @@
 个人觉得这样的作业设计会更为合理。
 
 - [x] Assignment 1: simpleenroll_starter
-- [ ] Assignment 2: Marriage Pact
-- [ ] Assignment 3: Make a Class
+- [ ] Assignment 2: Marriage Pact (发现搞不明白题目想让我干什么)
+- [ ] Assignment 3: Make a Class （先随便写写）
 - [ ] Assignment 4: Weather Forecast
