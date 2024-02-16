@@ -1,0 +1,14 @@
+Temperatures in Celsius
+21 23 26 29 32 
+15 18 21 23 26 
+10 12 15 18 21 
+4 7 10 12 15 
+-1 1 4 7 10 
+10 12 16 18 21 
+4 7 10 12 15 
+Maximum Temperatures
+32 26 21 15 10 21 15 
+Minimum Temperatures
+21 15 10 4 -1 10 4 
+Average Temperatures
+26.2 20.6 15.2 9.6 4.2 15.4 9.6 
